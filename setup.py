@@ -43,10 +43,6 @@ class startPage:
 		btn.place(x=80, y=240)
 		btn['font']=myFont
 
-		btn3=Button(window, text="Add Key",fg='white' , bg='red',width=25)
-		btn3.place(x=450, y=240)
-		btn3['font']=myFont
-
 		#for Background Color
 		window.configure(bg='#87ceeb')
 		window.mainloop()
