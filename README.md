@@ -8,7 +8,10 @@ pip install -r requirements.txt
 ```
 
 Run the setup.py file after converting it to exe using pyinstaller with the below command
-```pyinstaller --onefile -w setup.py```
+
+```
+pyinstaller --onefile -w setup.py
+```
 
 The Detailed description and working of the tool is mentioned in this article
 https://medium.com/@pavithran07/how-i-made-a-bot-for-my-online-class-3b087e6f90b3
