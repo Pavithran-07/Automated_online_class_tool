@@ -13,6 +13,8 @@ Run the setup.py file after converting it to exe using pyinstaller with the belo
 pyinstaller --onefile -w setup.py
 ```
 
+Remember that the Passwords are stored in plain text which is not advisable so work at your own risk!
+
 The Detailed description and working of the tool is mentioned in this article
 https://medium.com/@pavithran07/how-i-made-a-bot-for-my-online-class-3b087e6f90b3
 
